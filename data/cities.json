@@ -25,30 +25,6 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Castilblanco de los Arroyos",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-02-18T22:15:32.204Z",
-      "notes": "",
-      "position": {
-        "lat": "37.680519740612276",
-        "lng": "-5.910644531250001"
-      },
-      "id": 98443198
-    },
-    {
       "cityName": "Kornyn",
       "country": "Ukraine",
       "emoji": "🇺🇦",
@@ -61,28 +37,16 @@
       "id": 98443199
     },
     {
-      "cityName": "Ange",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-02-18T22:22:08.275Z",
+      "cityName": "Canillo",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2024-02-19T18:19:52.397Z",
       "notes": "",
       "position": {
-        "lat": "47.324935708732646",
-        "lng": "1.2304687500000002"
+        "lat": "42.55156643352399",
+        "lng": "1.5820312500000002"
       },
       "id": 98443200
-    },
-    {
-      "cityName": "Kaavi",
-      "country": "Finland",
-      "emoji": "🇫🇮",
-      "date": "2024-02-18T22:23:14.705Z",
-      "notes": "",
-      "position": {
-        "lat": "62.99010820633939",
-        "lng": "28.652343750000004"
-      },
-      "id": 98443201
     }
   ]
 }
